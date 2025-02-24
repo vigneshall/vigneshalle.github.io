@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vignesh Ganesh Alle - Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+    <script defer src="script.js"></script>
+</head>
+<body>
+    <nav>
+        <ul>
+            <li><a href="#home">Home</a></li>
+            <li><a href="#about">About Me</a></li>
+            <li><a href="#projects">Projects</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+    
+    <section id="home" class="section">
+        <img src="home.png" alt="Vignesh Ganesh Alle">
+    </section>
+    
+    <section id="about" class="section">
+        <img src="about.png" alt="About Me">
+    </section>
+    
+    <section id="projects" class="section">
+        <img src="project.png" alt="Projects">
+    </section>
+    
+    <section id="contact" class="section">
+        <img src="contact_me.png" alt="Contact Me">
+    </section>
+    
+    <footer>
+        <p>&copy; 2025 Vignesh Ganesh Alle. All Rights Reserved.</p>
+    </footer>
+</body>
+</html>
